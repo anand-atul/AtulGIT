@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is a new text file created for GIT session. Updating the comment to push the changes to master branch. Updating for merge.
+=======
+This is a new text file created for GIT session. updating for cherrypick. fixing bug1Fixing bug2.
+
+>>>>>>> a2c052e... Fixing bug 2
