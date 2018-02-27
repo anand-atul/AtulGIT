@@ -1,1 +1,1 @@
-This is a new text file created for GIT session.
+This is a new text file created for GIT session. Updating the comment to push the changes to master branch.
